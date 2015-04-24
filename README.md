@@ -1,6 +1,7 @@
 # piPower
 This is a fork of Mike's project (consoleLED). It uses ANSI control codes to display a red status of
 the power LED in the top right corner of the terminal screen.
+
 ---
 Monitor input power of the raspberry pi 
 
